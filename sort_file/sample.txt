@@ -1,0 +1,8 @@
+Roman period, the name for cake became "placenta".
+Cake is often served as a celebratory dish on ceremonial occasions,such as weddings, anniversaries, and birthdays. 
+reads the whole file and makes all letters lowercase to avoid .
+paru is a very beautiful lady
+cats are cutest pets. 
+python is a object oriented language.
+Japan is an island country in East Asia.
+ahhh this is a unsorted text file
