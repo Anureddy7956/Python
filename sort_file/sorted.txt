@@ -1,0 +1,15 @@
+ahhh this is a unsorted text file
+cake is often served as a celebratory dish on ceremonial occasions,such as weddings, anniversaries, and birthdays. 
+
+cats are cutest pets. 
+
+japan is an island country in east asia.
+
+paru is a very beautiful lady
+
+python is a object oriented language.
+
+reads the whole file and makes all letters lowercase to avoid .
+
+roman period, the name for cake became "placenta".
+
